@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひと夏のロマンス",
+  "base_artist": "まつむら かなう",
+  "createdAt": "2026-02-14T12:18:05.584821Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひと夏のロマンス",
+      "artist": "まつむら かなう",
+      "has_synced": false,
+      "path": "select/pl_01_ひと夏のロマンス_まつむら_かなう.txt"
+    }
+  ]
+}
